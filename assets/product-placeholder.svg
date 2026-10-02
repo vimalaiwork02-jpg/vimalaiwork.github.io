@@ -1,0 +1,27 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cocopeat product placeholder</title>
+  <desc id="desc">Stylized eco friendly product illustration for VJM Cocopeat</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#edf9ee"/>
+      <stop offset="100%" stop-color="#dbeedb"/>
+    </linearGradient>
+    <linearGradient id="block" x1="0" x2="1">
+      <stop offset="0%" stop-color="#e6f4e5"/>
+      <stop offset="100%" stop-color="#d0eec7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="930" cy="145" r="120" fill="#d5efcd" opacity="0.8"/>
+  <circle cx="200" cy="720" r="170" fill="#d9c6a8" opacity="0.22"/>
+  <g transform="translate(320 180)">
+    <rect x="0" y="75" width="560" height="430" rx="52" fill="#f7f8f3" stroke="#b9d8b7" stroke-width="6"/>
+    <path d="M64 145h430c36 0 64 28 64 64v160c0 36-28 64-64 64H64c-36 0-64-28-64-64V209c0-36 28-64 64-64z" fill="url(#block)"/>
+    <path d="M112 290c86-84 123-122 166-122 69 0 89 59 178 59 62 0 103-40 134-86" fill="none" stroke="#2d7a3a" stroke-width="18" stroke-linecap="round" opacity="0.8"/>
+    <path d="M210 235c18-44 40-84 82-111 30 22 56 60 74 98-42 18-85 31-156 13z" fill="#9ad38b" opacity="0.9"/>
+    <path d="M312 214c-5 33-12 66-37 91-30 30-82 40-112 44 7-35 39-75 88-98 27-13 46-22 61-37z" fill="#76bf67" opacity="0.9"/>
+    <rect x="210" y="420" width="160" height="26" rx="13" fill="#2d7a3a" opacity="0.8"/>
+    <text x="280" y="495" text-anchor="middle" font-size="54" font-weight="700" font-family="Arial, sans-serif" fill="#1a5c28">VJM Cocopeat</text>
+    <text x="280" y="550" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#5b5b5b">Natural • Sustainable • Trusted</text>
+  </g>
+</svg>
